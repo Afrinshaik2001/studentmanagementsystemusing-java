@@ -9,27 +9,11 @@ A simple console-based student management system built using **Java**. This appl
 - **Update Student Information**: Modify existing student details by ID.
 - **Delete Students**: Remove student records by ID.
 - **Input Validation**: Ensures age is within 0-120 and handles invalid inputs gracefully.
-- ![Uploading eclipse-workspace - JavaProject_src_javaproject_MainClass.java - Eclipse IDE 10_16_2024 12_22_04 AM.png…]()
-- ![Uploading eclipse-workspace - JavaProject_src_javaproject_MainClass.java - Eclipse IDE 10_16_2024 12_33_29 AM.png…]()
-
-
-
 ## Installation
 
 ### Prerequisites
 - **Java Development Kit (JDK)**: [Download and install JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
-- IDE: You can use any Java-supported IDE like [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org/downloads/).
-
-### Steps
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/StudentManagementSystem.git
-    ```
-
-2. Open the project in your preferred Java IDE or editor.
-
-3. Compile the code and run the `Main.java` class to start the application.
+- IDE: You can use any Java-supported IDE like [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org/download
 ## How to Use
 
 Upon running the program, you will be presented with a menu of options:
@@ -57,6 +41,10 @@ Upon running the program, you will be presented with a menu of options:
 
 ### 5. Exit
 - Exit the program.
+- ![eclipse-workspace - JavaProject_src_javaproject_MainClass java - Eclipse IDE 10_16_2024 12_22_04 AM](https://github.com/user-attachments/assets/4ec6a0e7-a70c-410b-95a7-96e40e1e3b01)
+- ![eclipse-workspace - JavaProject_src_javaproject_MainClass java - Eclipse IDE 10_16_2024 12_22_04 AM](https://github.com/user-attachments/assets/ff9192ea-3359-433d-b615-1bfb18e7daeb)
+
+
 
 ## Code Overview
 
